@@ -4,7 +4,7 @@ Python code for multiobjective optimization to design pedestrian zones in a city
 ## Paper
 For more details, please see the paper
 
-Oyama, Y., Murakami, S., Chikaraishi, M., Parady, G. (2024) [Designing pedestrian zones within city center networks considering policy objective trade-offs.](https://ssrn.com/abstract=4646591). Transportation Research Part A: Policy and Practice. 
+Oyama, Y., Murakami, S., Chikaraishi, M., Parady, G. (2024) [Designing pedestrian zones within city center networks considering policy objective trade-offs](https://ssrn.com/abstract=4646591). Transportation Research Part A: Policy and Practice. 
 
 If you find this code useful, please cite the paper:
 ```
