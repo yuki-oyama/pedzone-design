@@ -20,6 +20,8 @@ If you find this code useful, please cite the paper:
 }
 ```
 
+Note: the information of volume, page, doi and url will be updated once revealed.
+
 ## Quick Start
 Just run the ```run.py``` code.
 
